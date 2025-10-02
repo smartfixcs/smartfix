@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/smart-fix/static/css/main.74e4e56d.css",
+    "main.js": "/smart-fix/static/js/main.77151933.js",
+    "index.html": "/smart-fix/index.html",
+    "main.74e4e56d.css.map": "/smart-fix/static/css/main.74e4e56d.css.map",
+    "main.77151933.js.map": "/smart-fix/static/js/main.77151933.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74e4e56d.css",
+    "static/js/main.77151933.js"
+  ]
+}
